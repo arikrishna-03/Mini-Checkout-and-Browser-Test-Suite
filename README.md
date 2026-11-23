@@ -1,8 +1,8 @@
 # Mini Checkout & Playwright Browser Test Suite
 
-A lightweight, fully accessible single-page checkout application paired with an enterprise-grade, deterministic browser test suite built with **Playwright Test** and **Vanilla Web Standards** (HTML5, CSS3, ES6+).
+A single-page checkout application and browser test suite built with **Playwright Test** and standard web technologies (HTML5, CSS3, Vanilla JS).
 
-Built for complete reproducibility, rock-solid assertions, zero test flakiness, and strict adherence to SDET testing principles.
+Built with clear assertions, explicit test cases, and reproducible results for the hiring-hackathon submission.
 
 ---
 
