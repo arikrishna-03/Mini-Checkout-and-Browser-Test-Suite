@@ -1,0 +1,32 @@
+<testsuites id="" name="" tests="14" failures="0" skipped="0" errors="0" time="4.149900000000001">
+<testsuite name="checkout.spec.js" timestamp="2026-11-23T04:47:46.250Z" hostname="chromium" tests="14" failures="0" skipped="0" time="14.863" errors="0">
+<testcase name="Mini Checkout Suite › successful checkout shows a confirmation with a valid reference @smoke" classname="checkout.spec.js" time="1.214">
+</testcase>
+<testcase name="Mini Checkout Suite › missing name blocks checkout and shows a validation message @smoke" classname="checkout.spec.js" time="1.359">
+</testcase>
+<testcase name="Mini Checkout Suite › changing quantity updates line total and order total to the exact amount @smoke" classname="checkout.spec.js" time="1.347">
+</testcase>
+<testcase name="Mini Checkout Suite › empty cart blocks checkout and displays validation error @regression" classname="checkout.spec.js" time="1.334">
+</testcase>
+<testcase name="Mini Checkout Suite › whitespace-only name blocks checkout and shows validation message @regression" classname="checkout.spec.js" time="1.199">
+</testcase>
+<testcase name="Mini Checkout Suite › both empty cart and missing name errors display simultaneously @regression" classname="checkout.spec.js" time="1.051">
+</testcase>
+<testcase name="Mini Checkout Suite › customer name is preserved after failed checkout attempt @regression" classname="checkout.spec.js" time="1.173">
+</testcase>
+<testcase name="Mini Checkout Suite › cart items and quantities are preserved after failed checkout attempt @regression" classname="checkout.spec.js" time="1.35">
+</testcase>
+<testcase name="Mini Checkout Suite › rapid double-click on place order produces exactly one confirmation and reference @regression" classname="checkout.spec.js" time="0.757">
+</testcase>
+<testcase name="Mini Checkout Suite › rapid 5x burst clicks on place order produce exactly one confirmation @regression" classname="checkout.spec.js" time="0.719">
+</testcase>
+<testcase name="Mini Checkout Suite › removing an item from cart updates the total and cart display @regression" classname="checkout.spec.js" time="0.903">
+</testcase>
+<testcase name="Mini Checkout Suite › quantity boundaries and invalid inputs clamp correctly between 1 and 99 @regression" classname="checkout.spec.js" time="0.774">
+</testcase>
+<testcase name="Mini Checkout Suite › starting a new order resets cart, customer name, and submission lock @regression" classname="checkout.spec.js" time="0.917">
+</testcase>
+<testcase name="Mini Checkout Suite › keyboard-only checkout navigation using Tab and Enter @regression" classname="checkout.spec.js" time="0.766">
+</testcase>
+</testsuite>
+</testsuites>
